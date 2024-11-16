@@ -32,6 +32,6 @@
 
 <div >
 <p style="margin-top:10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-kamran&show_icons=true&locale=en&layout=compact" alt="Huzaifa kamran" /></p><p style="margin-top:10px;"><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Huzaifa-kamran&hide_border=true&show_icons=true&theme=tokyonight&card_width=495" alt="Huzaifa Kamran" /></p>
-<p align="center" style="margin-top:10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-kamran&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Huzaifa Kamran" /></p>
+<p style="margin-top:10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-kamran&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Huzaifa Kamran" /></p>
 </div>
 
